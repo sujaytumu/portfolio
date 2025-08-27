@@ -20,13 +20,13 @@ function Home2() {
               <br /> */}            
               <br />
               <br />
-              Proficient in the   
-              with <b className="purple"> MERN stack </b>with strong foundations  
+              Proficient in    
+              the <b className="purple"> MERN stack </b> with strong foundations  
               in <b className="purple"> DSA. </b>
               <br />
               <br />
-               Aspiring to grow as an
-              with <b className="purple">SDE / Full-Stack Developer.</b>
+               Aspiring to grow as 
+               an <b className="purple">SDE / Full-Stack Developer.</b>
 
             </p>
           </Col>
